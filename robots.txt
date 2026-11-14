@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://vitobramanta.github.io/al-folio/sitemap.xml
+Sitemap: https://vitobramanta.github.io/sitemap.xml
